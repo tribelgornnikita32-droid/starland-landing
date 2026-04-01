@@ -1,0 +1,58 @@
+{
+  "main": {
+    "title": "StarLand — премиальные аттракционы",
+    "subtitle": "Горки, батуты, надувные трубы для вашего бизнеса и развлечений"
+  },
+  "attractions": [
+    {
+      "category": "Батуты",
+      "items": [
+        {
+          "name": "Большой батут Deluxe",
+          "description": "Прочный батут премиум-класса, для детей и взрослых",
+          "image": "img/batut1.jpg"
+        },
+        {
+          "name": "Семейный батут Fun",
+          "description": "Безопасный и красочный, идеально для парка",
+          "image": "img/batut2.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Горки",
+      "items": [
+        {
+          "name": "Горка SkySlide",
+          "description": "Высокая надувная горка с яркими цветами",
+          "image": "img/gorka1.jpg"
+        },
+        {
+          "name": "Детская горка MiniSlide",
+          "description": "Компактная, безопасная и весёлая",
+          "image": "img/gorka2.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Надувные трубы",
+      "items": [
+        {
+          "name": "Трубы Adventure",
+          "description": "Развлекательный комплекс для полосы препятствий",
+          "image": "img/truba1.jpg"
+        }
+      ]
+    }
+  ],
+  "delivery": {
+    "title": "Доставка и установка",
+    "text": "Мы доставим и установим аттракционы в вашем городе быстро и безопасно."
+  },
+  "contacts": {
+    "title": "Контакты",
+    "phone": "+38 (000) 000-00-00",
+    "email": "info@starland.com",
+    "address": "Ваш город, улица, 00"
+  }
+}
