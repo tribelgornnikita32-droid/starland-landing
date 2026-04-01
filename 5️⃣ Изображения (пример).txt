@@ -1,6 +1,0 @@
-Изображения (пример)
-/img/batut1.jpg — https://via.placeholder.com/400x300?text=Batut+1
-/img/batut2.jpg — https://via.placeholder.com/400x300?text=Batut+2
-/img/gorka1.jpg — https://via.placeholder.com/400x300?text=Gorka+1
-/img/gorka2.jpg — https://via.placeholder.com/400x300?text=Gorka+2
-/img/truba1.jpg — https://via.placeholder.com/400x300?text=Truba+1
