@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StarLand — премиальные аттракционы</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1 id="main-title"></h1>
+    <p id="main-subtitle"></p>
+  </div>
+</header>
+
+<section id="catalog">
+  <div class="container" id="catalog-container"></div>
+</section>
+
+<section id="delivery">
+  <div class="container">
+    <h2 id="delivery-title"></h2>
+    <p id="delivery-text"></p>
+  </div>
+</section>
+
+<section id="contacts">
+  <div class="container">
+    <h2 id="contacts-title"></h2>
+    <p>Телефон: <span id="contacts-phone"></span></p>
+    <p>Email: <span id="contacts-email"></span></p>
+    <p>Адрес: <span id="contacts-address"></span></p>
+    <form id="contact-form">
+      <input type="text" placeholder="Ваше имя" required>
+      <input type="email" placeholder="Email" required>
+      <textarea placeholder="Сообщение" required></textarea>
+      <button type="submit">Отправить</button>
+    </form>
+  </div>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
